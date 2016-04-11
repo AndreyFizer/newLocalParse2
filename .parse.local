@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "maigrationTest"
+    },
+    "maigrationTest": {
+      "applicationId": "cOBdD0wMtCRYfNfC51BMufvI3mslcMWeiSVPi9yA"
+    }
+  }
+}
